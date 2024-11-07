@@ -1,5 +1,5 @@
 <h1> ⚙ Olá, eu sou a Renata! </h1> <br>
-<p> Seja bem vindo(a) ao meu <s>novo</s> repositório de estudos e práticas! </p>   
+<p> Seja bem vindo(a) ao meu repositório de estudos e práticas! </p>   
 <br> <br> <br> <br>
 
 <div align="center">
