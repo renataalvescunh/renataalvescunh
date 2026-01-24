@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-🎐 Obrigada por visitar meu perfil!
+💡 Obrigada por visitar meu perfil!
 </p>
 
 <picture>
